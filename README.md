@@ -14,6 +14,6 @@ This project visualizes customer behavior and helps businesses identify valuable
   - Interactive filtering and multi-tab layout
 - **Contact Page:** Personal links (LinkedIn, GitHub, Email).
 
-- **You can check my streamlit : https://project-customer-segmentation.streamlit.app/
+- **You can check my streamlit** : https://project-customer-segmentation.streamlit.app/
 
 ---
