@@ -36,4 +36,26 @@ def tampilkan_tentang():
         Saya mempelajari skill teknis melalui bootcamp intensif dan terus mengembangkan pengetahuan 
         melalui proyek-proyek praktis dan pembelajaran mandiri. Saya percaya dalam pembelajaran 
         seumur hidup dan selalu mencari tantangan baru untuk meningkatkan kemampuan saya.
+        
+        ---
+        ### Project Background
+        E-commerce telah menjadi penggerak utama transformasi digital, memungkinkan jangkauan pasar lebih luas 
+        dan biaya distribusi lebih rendah.
+        
+        Perusahaan ritel online di Inggris yang menjual hadiah & perlengkapan rumah ingin meningkatkan strategi 
+        pemasaran dan pengalaman pelanggan.
+        
+        Dengan data transaksi 1 tahun (Des 2018 – Des 2019), perusahaan perlu memahami perilaku pelanggan 
+        dan mengelompokkan mereka dalam segmen yang relevan.
+        
+        **Problem Statement:**
+        Perusahaan ritel online belum memiliki pemahaman mendalam mengenai perilaku pelanggan sehingga strategi 
+        pemasaran masih bersifat umum dan kurang efektif. Diperlukan segmentasi pelanggan berbasis analisis data 
+        (EDA, RFM, K-Means) untuk mendukung strategi pemasaran yang lebih terarah dan personal.
+        
+        **Tujuan Bisnis:**
+        - Menggunakan EDA & K-Means Clustering untuk menemukan pola pelanggan.
+        - Menerapkan RFM (Recency, Frequency, Monetary) untuk memahami perilaku pelanggan.
+        - Memberikan rekomendasi strategis untuk pemasaran & retensi pelanggan.
+        - Mendukung strategi personalisasi & efisiensi biaya pemasaran guna meningkatkan penjualan & loyalitas pelanggan.
         """)
