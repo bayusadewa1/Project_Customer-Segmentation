@@ -15,5 +15,6 @@ This project visualizes customer behavior and helps businesses identify valuable
 - **Contact Page:** Personal links (LinkedIn, GitHub, Email).
 
 - **You can check my streamlit** : https://project-customer-segmentation.streamlit.app/
+- **Notes**: You are required to download the dataset first to perform interactive visualization in Streamlit. The dataset is available on my GitHub. You can also use other datasets, but they must meet the requirements specified in the dataset used in my Streamlit.
 
 ---
